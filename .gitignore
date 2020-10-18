@@ -436,3 +436,6 @@ claude_*_level_library.c
 # JetBrains IDEA-Based products
 .idea
 *.iml
+
+# Python executables
+*.p
