@@ -1,41 +1,24 @@
-# CLimate Analysis using Digital Estimations (CLAuDE)
-This is the project to model the climates of hypothetical planets, which could be Earth with slightly different parameters or entirely alien worlds. 
+# Climate analysis using digital estimations
 
-The tool which we'll use to accomplish this is CLimate Analysis using Digital Estimations (CLAuDE), an intuitive, 
-simplistic model of atmospheric dynamics.
+![Claude](assets/branding/claude.png?raw=true "Claude")<br/>
 
-**The purpose of CLAuDE is to be:**
-- versatile, such that users customise which modules of code will be used in a given simulation
-- a teaching tool, both for programming and climate physics
-- accessible, designed to run even on basic machines with appropriate parameters
+## Getting Started
+To begin using CLAuDE, you need to first make sure you have [Git](https://git.com) and [Python 3.6 or later](https://python.com)
+installed on your system.
 
-**Objectives**
-- Modular, so users can customise the complexity of the model and write their own modules.
-- To answer questions through YouTube videos about hypothetical planets, that would use the output of CLAuDE
+Then, you can head over to our [scripts](./scripts) directory and download the script to install everything that is required. 
+It's easy as that! We've done everything for you. All you need to do after that is execute the file via `python toy_model.py`.
 
-Beyond these goals, we hope that it can become a useful resource for teachers and students discussing climate 
-and atmospheric dynamics.
+## Backstory
+CLAuDE is an acronym for "Climate Analysis Using Digital Estimations". It's main purpose is to model the climate of hypothetical planets, 
+which could be Earth with slightly different parameters or entirely alien words.
 
-### Building
-See the documentation on building in [BUILDING.md](https://github.com/Planet-Factory/claude/blob/master/BUILDING.md).
+The ultimate objective of this project is to create YouTube videos answering questions about hypothetical planets, such as 
+"What would happen if the Earth span twice as fast". This would use the output from CLAuDE to create accurate representations of how 
+these planets climates would behave under these altered, or completely fictional circumstances.
 
-### Community
+We hope that this project will become a useful scientific tool for teachers and students when discussing climate and atmospheric dynamics.
 
-**Discord**
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-If you wish to discuss CLAuDE and other things related to climate and atmospheric dynamics, feel free 
-to join the [Dr. Simon Clark Discord Server](https://discord.gg/SZu6e2F).
-
-**YouTube**
-
-Simon creates videos about climate and atmospheric dynamics, as well as videos hypothesising 
-if fictional planets could be a reality, based of what we currently know. 
-
-If you think you'd enjoy this videos, you can watch him [here](https://www.youtube.com/channel/UCRRr_xrOm66qaigIbwFLvbQ).
-
-**Twitch**
-
-CLAuDE is currently being developed on Wednesday [Twitch](https://twitch.tv/drsimonclark) streams every week! 
-
-### Licensing
-TODO: Add LICENSE  
